@@ -28,12 +28,12 @@ public class MyList<T>
         Count = 0;
     }
 
-    public void AddLast(T data) //Add last O(1)
+    public void AddLast(T data) //Add last 0(1)
     {
         
     }
 
-    public void AddFirst(T data) //Add first
+    public void AddFirst(T data) //Add first 0(1)
     {
         
     }
